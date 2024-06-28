@@ -1,0 +1,5 @@
+https://promo.com/tools/image-resizer/
+
+Weidth= 1600 and hight= 1000
+
+disable aspect ratio 
